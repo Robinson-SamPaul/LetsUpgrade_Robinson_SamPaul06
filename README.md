@@ -1,2 +1,2 @@
 # LetsUpgrade_Robinson_SamPaul06
-JAVASCRIPT Essentials
+JAVASCRIPT Essentials - Project
